@@ -13,8 +13,7 @@
   {
     "repository":  "vendor_xiaomi_msm8996-common",
     "target_path": "vendor/xiaomi",
-    "branch":      "ten",
-    "remote":      "pixel-devices-blobs"
+    "branch":      "ten"
   },
   {
     "repository": "packages_apps_PixelLiveWallpaper",
