@@ -200,3 +200,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.lmk.kill_heaviest_task=true \
     ro.lmk.kill_timeout_ms=100 \
     ro.lmk.use_minfree_levels=true
+
+# MiPush System
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.miui.ui.version.name=V12 \
+    ro.miui.ui.version.code=10 \
+    ro.miui.ui.version.code_time=1603036800
+
