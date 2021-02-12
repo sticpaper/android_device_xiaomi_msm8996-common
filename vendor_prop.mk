@@ -207,3 +207,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.miui.ui.version.code=10 \
     ro.miui.ui.version.code_time=1603036800
 
+# System Other
+PRODUCT_PRODUCT_PROPERTIES += \
+    persist.sys.timezone=Asia/Shanghai
+
