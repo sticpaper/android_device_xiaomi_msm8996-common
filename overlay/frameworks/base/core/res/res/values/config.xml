@@ -387,4 +387,8 @@
          or a single SIM device can have 1 phones/logical modems, but 2 physical slots (one eSIM
          and one pSIM) -->
     <integer name="config_num_physical_slots">2</integer>
+
+    <!-- Android SQLite System -->
+    <string name="db_wal_sync_mode">OFF</string>
+    <string name="db_default_sync_mode">OFF</string>
 </resources>
